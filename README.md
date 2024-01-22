@@ -1,12 +1,14 @@
 # Tic-Tac-toe-in-Arduino-Nano
 
 **INTRODUCTION**
+
 Tic-Tac-Toe, also known as "Noughts and Crosses," is a classic two-player game played
 on a 3x3 grid. The objective of the game is to be the first to get three of your symbols
 (either 'X' or 'O') in a row, column, or diagonal. It is a simple yet engaging game that can
 be implemented using Arduino.
 
 **COMPONENTS USED**
+
 Arduino Nano
 Description: The Arduino Nano is a compact microcontroller board based on the
 ATmega328P. It serves as the brain of the Tic-Tac-Toe game, handling game logic and
