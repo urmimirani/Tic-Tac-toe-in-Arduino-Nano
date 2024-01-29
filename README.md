@@ -1,4 +1,4 @@
-# Tic-Tac-toe-in-Arduino-Nano
+# Tic-Tac-Toe-in-Arduino-Nano
 
 **INTRODUCTION**
 
